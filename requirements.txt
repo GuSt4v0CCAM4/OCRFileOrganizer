@@ -1,0 +1,7 @@
+numpy==2.0.1
+opencv-python==4.10.0.84
+packaging==24.1
+pdf2image==1.17.0
+pillow==10.4.0
+pytesseract==0.3.10
+tesseract==0.1.3
